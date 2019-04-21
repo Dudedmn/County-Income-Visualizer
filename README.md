@@ -5,11 +5,11 @@
 ## BigDataCache
 
 # Team Members:
-+ Alex Young - Team documentation and data gatherer  
-+ Kevin Hsu - Hosted the VS code, found .Json libraries  
-+ Will Nelson - Developed the React and js code base for visualizing the geolocation data  
-+ Jarod Guerrero - made a a ReactJS Nav bar and learned a lot about js and react code  
-+ Daniel Yan - Developed React and .js code base for visualization and the color coding for income levels  
++ Alex Young - Team documentation, status checker, and data gatherer  
++ Kevin Hsu - Hosted VS code liveshare, found .json libraries, deployed and built server using Netlify  
++ Will Nelson - Developed ReactJS code base for visualizing the geolocation data  
++ Jarod Guerrero - Developed ReactJS Nav bar
++ Daniel Yan - Developed ReactJS code base for visualization and the color coding for income levels  
 
 # Summary:
 + Used **ReactJS** for the frontend, primarily the **React-Leaflet** library and **VS Code Liveshare** for team collaboration.
@@ -26,6 +26,6 @@
 + Only a couple of us knew each other but we were able to collaborate effectively to create a fucntioning and practical website
 + This Website can be used by students that will help them pick which area to live in based on median income and the related tuition costs
 + The project came down to the wire but we were able to finish and present to the rest of the Hackathon members
-+ In the future we hope to expand this project to wider area but the amount of data we were sorting through and trying to find slowed us down immensely.
++ In the future we hope to expand this project to wider area but the amount of data we were sorting through and trying to find slowed us down immensely
 
 
